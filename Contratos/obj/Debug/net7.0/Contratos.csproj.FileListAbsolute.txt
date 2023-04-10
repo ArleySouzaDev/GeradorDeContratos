@@ -1,0 +1,15 @@
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\bin\Debug\net7.0\Contratos.exe
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\bin\Debug\net7.0\Contratos.deps.json
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\bin\Debug\net7.0\Contratos.runtimeconfig.json
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\bin\Debug\net7.0\Contratos.dll
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\bin\Debug\net7.0\Contratos.pdb
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.csproj.AssemblyReference.cache
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.AssemblyInfoInputs.cache
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.AssemblyInfo.cs
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.csproj.CoreCompileInputs.cache
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.dll
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\refint\Contratos.dll
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.pdb
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\Contratos.genruntimeconfig.cache
+C:\Users\Arley\Documents\Projetos\Contratos\Contratos\obj\Debug\net7.0\ref\Contratos.dll
